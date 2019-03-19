@@ -1,0 +1,6 @@
+/.idea
+/.vscode
+/app/__pycache__
+/app/newsOps/__pycache__
+/app/misc.txt
+/venv
